@@ -1,0 +1,418 @@
+Copyright 2022 ByteDance Ltd. and/or its affiliates.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+This repository also contains code from the following projects. Files from these projects have notices at  the top of each file. 
+
+======
+cluster-key-slot,
+denque, 
+js-bson, 
+kareem, 
+mongodb-connection-string-url, 
+node-mongodb-native
+
+SPDX-License-Identifier: Apache-2.0 
+======
+webidl-conversions
+Copyright (c) 2014, Domenic Denicola
+All rights reserved.
+
+SPDX-License-Identifier: BSD-2-Clause
+======
+qs - QS Querystring
+
+SPDX-License-Identifier: BSD-3-Clause
+======
+ieee754
+Files: *
+Copyright: 2008 Fair Oaks Labs, Inc
+Files: debian/*
+Copyright: 2017 Siddhesh Rane <kingsid911@gmail.com>
+2018 Bastien Roucariès <rouca@debian.org>
+2020 Yadd <yadd@debian.org>
+
+SPDX-License-Identifier: BSD-3-Clause
+======
+inherits
+Files: *
+Copyright: 2012-2014 Isaac Z. Schlueter <i@izs.me>
+
+SPDX-License-Identifier: ISC
+======
+setprototypeof 
+Files: *
+Copyright: 2015-2018 Wes Todd
+Files: debian/*
+Copyright: 2017 Kartik Kulkarni <kartik.koolks@gmail.com>
+
+SPDX-License-Identifier: ISC
+======
+node-only
+Copyright (c) 2012 TJ Holowaychuk &lt;tj@vision-media.ca&gt;
+
+SPDX-License-Identifier: MIT
+======
+jshttp/fresh 
+Copyright (c) 2012 TJ Holowaychuk <tj@vision-media.ca>
+Copyright (c) 2016-2017 Douglas Christopher Wilson <doug@somethingdoug.com>
+
+SPDX-License-Identifier: MIT
+======
+escape-html
+Copyright (c) 2012-2013 TJ Holowaychuk
+Copyright (c) 2015 Andreas Lubbe
+Copyright (c) 2015 Tiancheng "Timothy" Gu
+
+SPDX-License-Identifier: MIT
+======
+Negotiator 0.6.3
+Copyright (c) 2012-2014 Federico Romero
+Copyright (c) 2012-2014 Isaac Z. Schlueter
+Copyright (c) 2014-2015 Douglas Christopher Wilson
+
+SPDX-License-Identifier: MIT
+======
+bytes
+Copyright (c) 2012-2014 TJ Holowaychuk <tj@vision-media.ca>
+Copyright (c) 2015 Jed Watson <jed.watson@me.com>
+
+SPDX-License-Identifier: MIT
+======
+on-finished 
+Copyright (c) 2013 Jonathan Ong <me@jongleberry.com>
+Copyright (c) 2014 Douglas Christopher Wilson <doug@somethingdoug.com>
+
+SPDX-License-Identifier: MIT
+======
+methods
+Copyright (c) 2013-2014 TJ Holowaychuk <tj@vision-media.ca>
+Copyright (c) 2015-2016 Douglas Christopher Wilson <doug@somethingdoug.com>
+
+SPDX-License-Identifier: MIT
+======
+http-assert
+Copyright (c) 2014
+
+SPDX-License-Identifier: MIT
+======
+media-typer 
+Copyright (c) 2014 Douglas Christopher Wilson
+
+SPDX-License-Identifier: MIT
+======
+cookies 
+Copyright (c) 2014 Jed Schmidt, http://jed.is/
+Copyright (c) 2015-2016 Douglas Christopher Wilson <doug@somethingdoug.com>
+
+SPDX-License-Identifier: MIT
+======
+type.is 
+Copyright (c) 2014 Jonathan Ong <me@jongleberry.com>
+Copyright (c) 2014-2015 Douglas Christopher Wilson <doug@somethingdoug.com>
+
+SPDX-License-Identifier: MIT
+======
+expressjs/accepts
+Copyright (c) 2014 Jonathan Ong <me@jongleberry.com>
+Copyright (c) 2015 Douglas Christopher Wilson <doug@somethingdoug.com>
+
+SPDX-License-Identifier: MIT
+======
+mime-db
+Copyright (c) 2014 Jonathan Ong <me@jongleberry.com>
+Copyright (c) 2015-2022 Douglas Christopher Wilson <doug@somethingdoug.com>
+
+SPDX-License-Identifier: MIT
+======
+co 
+Copyright (c) 2014 TJ Holowaychuk &lt;tj@vision-media.ca&gt;
+
+SPDX-License-Identifier: MIT
+======
+content-disposition, 
+nodejs Deprecate, 
+vary
+Copyright (c) 2014-2017 Douglas Christopher Wilson
+
+SPDX-License-Identifier: MIT
+======
+debug-js/debug
+Copyright (c) 2014-2017 TJ Holowaychuk <tj@vision-media.ca>
+Copyright (c) 2018-2021 Josh Junon
+
+SPDX-License-Identifier: MIT
+======
+nodejs Deprecate
+Copyright (c) 2014-2018 Douglas Christopher Wilson
+
+SPDX-License-Identifier: MIT
+======
+jshttp/content-type
+Copyright (c) 2015 Douglas Christopher Wilson
+
+SPDX-License-Identifier: MIT
+======
+encodeurl 1.0.2
+Copyright (c) 2016 Douglas Christopher Wilson
+
+SPDX-License-Identifier: MIT
+======
+koa
+Copyright (c) 2019 Koa contributors
+
+SPDX-License-Identifier: MIT
+======
+lodash.defaults, 
+lodash.isarguments
+
+SPDX-License-Identifier: MIT
+======
+iconv-lite
+Copyright (c) 2011 Alexander Shtuchkin
+
+SPDX-License-Identifier: MIT
+======
+has
+Copyright (c) 2013 Thiago de Arruda
+
+SPDX-License-Identifier: MIT
+======
+saslprep
+Copyright (c) 2014 Dmitry Tsvettsikh
+
+SPDX-License-Identifier: MIT
+======
+delegates
+Copyright (c) 2015 TJ Holowaychuk <tj@vision-media.ca>
+
+SPDX-License-Identifier: MIT
+======
+ylru
+Copyright (c) 2016-present node-modules
+Copyright (c) 2016 'Dominic Tarr'
+
+SPDX-License-Identifier: MIT
+======
+Punycode.js
+Copyright Mathias Bynens <https://mathiasbynens.be/>
+
+SPDX-License-Identifier: MIT
+======
+function-bind 
+
+SPDX-License-Identifier: MIT
+======
+jshttp/mime-types
+Copyright (c) Microsoft Corporation.
+
+SPDX-License-Identifier: MIT
+======
+toidentifier
+Copyright (c) 2016 Douglas Christopher Wilson <doug@somethingdoug.com>
+
+SPDX-License-Identifier: MIT
+======
+has-symbols 
+Copyright (c) 2016 Jordan Harband
+
+SPDX-License-Identifier: MIT
+======
+safer-buffer
+Copyright (c) 2018 Nikita Skovoroda <chalkerx@gmail.com>
+
+SPDX-License-Identifier: MIT
+======
+standard-as-callback 
+Copyright (c) 2018 Zihua Li
+Copyright (c) 2013-2017 Petka Antonov
+
+SPDX-License-Identifier: MIT
+======
+side-channel 
+Copyright (c) 2019 Jordan Harband
+
+SPDX-License-Identifier: MIT
+======
+call-bind
+MIT License
+Copyright (c) 2020 Jordan Harband
+
+SPDX-License-Identifier: MIT
+======
+has-tostringtag
+Copyright (c) 2021 Inspect JS
+
+SPDX-License-Identifier: MIT
+======
+@ioredis/commands, 
+@types/webidl-conversions, 
+@types/whatwg-url, 
+aheckmann/mquery, 
+cache-content-type, 
+co-body, 
+get-intrinsic, 
+inflation, 
+ioredis, 
+koa-compose, 
+Mongoose, 
+mpath, 
+node-ip, 
+path-to-regexp, 
+redis-errors, 
+sift, 
+socks
+
+SPDX-License-Identifier: MIT
+===============
+tsscmp
+Copyright (c) 2016
+
+SPDX-License-Identifier: MIT
+======
+raw-body
+Copyright (c) 2013-2014 Jonathan Ong <me@jongleberry.com>
+Copyright (c) 2014-2022 Douglas Christopher Wilson <doug@somethingdoug.com>
+
+SPDX-License-Identifier: MIT
+======
+smart-buffer
+Copyright (c) 2013-2017 Josh Glazebrook
+
+SPDX-License-Identifier: MIT
+======
+base64-js
+Copyright (c) 2014 Jameson Little
+
+SPDX-License-Identifier: MIT
+======
+statuses, 
+statuses
+Copyright (c) 2014 Jonathan Ong <me@jongleberry.com>
+Copyright (c) 2016 Douglas Christopher Wilson <doug@somethingdoug.com>
+
+SPDX-License-Identifier: MIT
+======
+ee-first 
+Copyright (c) 2014 Jonathan Ong me@jongleberry.com
+
+SPDX-License-Identifier: MIT
+======
+destroy
+Copyright (c) 2014 Jonathan Ong me@jongleberry.com
+Copyright (c) 2015-2022 Douglas Christopher Wilson doug@somethingdoug.com
+
+SPDX-License-Identifier: MIT
+======
+http-errors
+Copyright (c) 2014 Jonathan Ong me@jongleberry.com
+Copyright (c) 2016 Douglas Christopher Wilson doug@somethingdoug.com
+
+SPDX-License-Identifier: MIT
+======
+is-generator-function
+Copyright (c) 2014 Jordan Harband
+
+SPDX-License-Identifier: MIT
+======
+copy-to
+Copyright (c) 2014 dead_horse
+
+SPDX-License-Identifier: MIT
+======
+koa-bodyparser
+Copyright (c) 2014 dead_horse
+
+SPDX-License-Identifier: MIT
+======
+@koa/router 
+Copyright (c) 2015 Alexander C. Mingoia
+Copyright (c) 2019-present Nick Baugh and Koajs contributors
+
+SPDX-License-Identifier: MIT
+======
+redis-parser 
+Copyright (c) 2015 NodeRedis
+
+SPDX-License-Identifier: MIT
+======
+koa-convert 
+Copyright (c) 2015 yunsong
+Copyright (c) 2020 Koa.js contributors
+
+SPDX-License-Identifier: MIT
+======
+expressjs/keygrip
+Copyright (c) 2016
+
+SPDX-License-Identifier: MIT
+======
+sparse-bitfield 
+Copyright (c) 2016 Mathias Buus
+
+SPDX-License-Identifier: MIT
+======
+ms.js
+Copyright (c) 2016 Zeit, Inc.
+
+SPDX-License-Identifier: MIT
+======
+memory-pager 
+Copyright (c) 2017 Mathias Buus
+
+SPDX-License-Identifier: MIT
+======
+ms.js
+Copyright (c) 2020 Vercel, Inc.
+
+SPDX-License-Identifier: MIT
+======
+safe-buffer
+Copyright (c) Feross Aboukhadijeh
+
+SPDX-License-Identifier: MIT
+======
+Buffer
+Copyright (c) Feross Aboukhadijeh, and other contributors.
+
+SPDX-License-Identifier: MIT
+======.
+whatwg-url 
+Copyright (c) Sebastian Mayr
+
+SPDX-License-Identifier: MIT
+======
+tr46
+Copyright (c) Sebastian Mayr
+
+SPDX-License-Identifier: MIT
+======
+node-deep-equal
+
+SPDX-License-Identifier: MIT
+======
+pillarjs/parseurl
+Files: *
+Copyright: 2014 Jonathan Ong <me@jongleberry.com>
+Files: debian/*
+Copyright: 2014 Leo Iannacone <l3on@ubuntu.com>
+
+SPDX-License-Identifier: MIT
+======
+unpipe 
+Files: *
+Copyright: 2016 Douglas Christopher Wilson <doug@somethingdoug.com>
+Files: debian/*
+Copyright: 2016 Thorsten Alteholz <debian@alteholz.de>
+
+SPDX-License-Identifier: MIT
+======
