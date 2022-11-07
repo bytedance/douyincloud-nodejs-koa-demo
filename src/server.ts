@@ -58,7 +58,8 @@ initService().then(async ({ redis, mongoose}) => {
         }
     }).post('/api/set_data_to_redis', async(ctx) => {
         const key = ctx.query.key as string;
-        const value = ctx.request.body.value as string;
+        const body: any = ctx.request.body;
+        const value = body.value as string;
         assert(key?.trim(), `key is required`);
         assert(value?.trim(), `value is required`);
         await redis.set(key, value);
