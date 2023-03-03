@@ -19,7 +19,7 @@ async function initService() {
 
     assert(await redis.echo('echo') === 'echo', `redis echo error`);
 
-    const mongoUrl = `mongodb://${MONGO_USERNAME}:${MONGO_PASSWORD}@${MONGO_ADDRESS}`;
+    const mongoUrl = `mongodb://${MONGO_USERNAME}:${encodeURIComponent(MONGO_PASSWORD)}@${MONGO_ADDRESS}`;
     await mongoose.connect(mongoUrl);    
 
     return {
